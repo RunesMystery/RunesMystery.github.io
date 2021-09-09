@@ -87,3 +87,16 @@
 .rune_attributes ul li span {
   font-size: 20px;
 }
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+table th {
+  color: white;
+  font-size: 20px;
+}
+table td {
+  color: white;
+  font-size: 20px;
+}
