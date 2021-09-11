@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 32 32">
+    <style>.base { fill: white; font-family: serif; font-size: 27px; }</style>
+    <circle cx="50%" cy="50%" r="16" fill="black" />
+    <text text-anchor="middle" x="17" y="24" class="base">R</text>
+</svg>
